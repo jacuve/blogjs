@@ -65,3 +65,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 cap 24 .que es jetstream
+
+cap 25 . Componentes blade.
+
+voy por cap 26 . sin empezar. Componentes blade (anonimos)
