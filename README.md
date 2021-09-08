@@ -68,4 +68,6 @@ cap 24 .que es jetstream
 
 cap 25 . Componentes blade.
 
-voy por cap 26 . sin empezar. Componentes blade (anonimos)
+cap 26. Componentes blade (anonimos)
+
+voy por cap 27 . sin empezar . Como modificar la plantilla de jetstream
